@@ -1,10 +1,11 @@
-name: API Testings
+name: API Testing
 
 on:
   push:
     branches:
       - main
 #test1
+#test2
 jobs:
   zap_scan:
     runs-on: ubuntu-latest
